@@ -8,8 +8,11 @@ evaluate the ratings data and provide insights for their journalists and food cr
 This challenge consists of three parts:
 
 Part 1: Database and Jupyter Notebook Setup
+
 Part 2: Update the Database
+
 Part 3: Exploratory Analysis
+
 
 ## Dependencies
 
